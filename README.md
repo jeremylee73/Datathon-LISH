@@ -1,2 +1,2 @@
 # Datathon-LISH
-Submission to classification data challenge by the Laboratory for Innovation Science at Harvard (Ranked Top 10) - Rule restriction: linear models only
+Top 10 submission to classification data challenge by the Laboratory for Innovation Science at Harvard (Rule restriction: Only generalized linear models allowed)
